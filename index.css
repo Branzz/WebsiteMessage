@@ -24,7 +24,7 @@ section {
     background: purple;
 }
 .one {
-    background-image: url(/images/Fotolia_rainbow_clouds.jpg);
+    background-image: url(https://media.discordapp.net/attachments/722001554944819202/1041126263647129721/Fotolia_rainbow_clouds.jpg);
 }
 
 .content {
@@ -62,7 +62,7 @@ section {
 }
 
 .two {
-    background-image: url(/images/Jens-Fine-Art-June-28-Cancer-New-Moon-scaled.jpg);
+    background-image: url(https://media.discordapp.net/attachments/722001554944819202/1041126264146235462/Jens-Fine-Art-June-28-Cancer-New-Moon-scaled.jpg);
 }
 .a:before {
      content: " ";
